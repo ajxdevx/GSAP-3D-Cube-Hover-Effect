@@ -1,0 +1,16 @@
+{
+  "name": "gsap-3d-cube-hover-effect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "AJ",
+  "license": "ISC",
+  "description": "A GSAP-powered 3D cube mosaic flip hover effect",
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "vite": "^8.0.11"
+  }
+}
