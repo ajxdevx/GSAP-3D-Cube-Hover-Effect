@@ -38,7 +38,7 @@ npm install
 
 ### Add Your Images
 
-Place your images in the project root (or `public/` folder if you add one):
+Place your images in the `public/` folder:
 
 | File         | Purpose                          |
 | ------------ | -------------------------------- |
@@ -63,6 +63,7 @@ Open the URL shown in the terminal (usually `http://localhost:5173`).
 ## Project Structure
 
 ```
+├── public/         # Image assets (default.jpg, img1.jpg, …)
 ├── index.html      # Page markup and project list
 ├── script.js       # Tile generation, GSAP animations, hover logic
 ├── styles.css      # 3D transforms, grid layout, typography
